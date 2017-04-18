@@ -1,0 +1,15 @@
+﻿  PluginSDK.cpp
+  Spammer.cpp
+Spammer.cpp(88): warning C4129: '_': unrecognized character escape sequence
+Spammer.cpp(92): warning C4129: ')': unrecognized character escape sequence
+Spammer.cpp(118): warning C4129: '.': unrecognized character escape sequence
+Spammer.cpp(119): warning C4129: '.': unrecognized character escape sequence
+Spammer.cpp(124): warning C4129: ' ': unrecognized character escape sequence
+     Creating library C:\Users\Tyler\Desktop\Aimjunkies-master\TiltSharp\Release\L++Spammer.lib and object C:\Users\Tyler\Desktop\Aimjunkies-master\TiltSharp\Release\L++Spammer.exp
+  Generating code
+  0 of 12 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  L++Spammer.vcxproj -> C:\Users\Tyler\Desktop\Aimjunkies-master\TiltSharp\Release\L++Spammer.dll
+  L++Spammer.vcxproj -> C:\Users\Tyler\Desktop\Aimjunkies-master\TiltSharp\Release\L++Spammer.pdb (Full PDB)
